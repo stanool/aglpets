@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AglPetsTest", "AglPetsTest\AglPetsTest.csproj", "{AA7C1681-D577-48C3-9760-119F66DEA50B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cats", "Cats\Cats.csproj", "{D45111D7-D031-4E29-8420-1350FE44E98B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AglPets", "AglPets\AglPets.csproj", "{B812365F-E108-4D45-8557-21B2E1B6DA03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7C1681-D577-48C3-9760-119F66DEA50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7C1681-D577-48C3-9760-119F66DEA50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7C1681-D577-48C3-9760-119F66DEA50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7C1681-D577-48C3-9760-119F66DEA50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45111D7-D031-4E29-8420-1350FE44E98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45111D7-D031-4E29-8420-1350FE44E98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45111D7-D031-4E29-8420-1350FE44E98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45111D7-D031-4E29-8420-1350FE44E98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B812365F-E108-4D45-8557-21B2E1B6DA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B812365F-E108-4D45-8557-21B2E1B6DA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B812365F-E108-4D45-8557-21B2E1B6DA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B812365F-E108-4D45-8557-21B2E1B6DA03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7B82AE2-D36A-4BF9-9025-5A4891472C5B}
+	EndGlobalSection
+EndGlobal
