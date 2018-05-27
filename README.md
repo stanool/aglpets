@@ -1,7 +1,7 @@
 # aglpets
 Implementation of AGLs programming challenge available [here](http://agl-developer-test.azurewebsites.net/)
 
-Uses C#, ASP.NET Core, xUnit, Mock, Bootstrap, and React to show a list of sorted cat names grouped by their owners gender.
+Uses C#, ASP.NET Core, xUnit, Moq, Bootstrap, and React to show a list of sorted cat names grouped by their owners gender.
 
 Consists of three projects:
 * `AglPets` Model and Service classes
